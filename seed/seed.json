@@ -347,6 +347,7 @@
                     "NIGHTLY",
                     "BETA"
                 ],
+                "max_version": "110.1.49.83",
                 "min_version": "90.1.25.57",
                 "platform": [
                     "WINDOWS",
@@ -386,6 +387,7 @@
                 "channel": [
                     "RELEASE"
                 ],
+                "max_version": "110.1.49.83",
                 "min_version": "90.1.25.57",
                 "platform": [
                     "WINDOWS",
@@ -419,6 +421,7 @@
                     "BETA",
                     "RELEASE"
                 ],
+                "max_version": "110.1.49.83",
                 "min_version": "101.1.38.109",
                 "platform": [
                     "WINDOWS",
@@ -428,35 +431,6 @@
                 ]
             },
             "name": "FirstPartyEphemeralDomainBlockStudy"
-        },
-        {
-            "experiments": [
-                {
-                    "feature_association": {
-                        "disable_feature": [
-                            "BravePartitionBlobStorage"
-                        ]
-                    },
-                    "name": "Default",
-                    "probability_weight": 100
-                }
-            ],
-            "filter": {
-                "channel": [
-                    "NIGHTLY",
-                    "BETA",
-                    "RELEASE"
-                ],
-                "max_version": "102.1.39.117",
-                "min_version": "100.1.39.41",
-                "platform": [
-                    "WINDOWS",
-                    "MAC",
-                    "LINUX",
-                    "ANDROID"
-                ]
-            },
-            "name": "DisableBlobPartitioning"
         },
         {
             "experiments": [
@@ -968,6 +942,7 @@
                     "NIGHTLY",
                     "BETA"
                 ],
+                "max_version": "110.1.49.83",
                 "min_version": "94.1.31.51",
                 "platform": [
                     "WINDOWS",
@@ -1002,6 +977,7 @@
                 "channel": [
                     "RELEASE"
                 ],
+                "max_version": "110.1.49.83",
                 "min_version": "94.1.31.51",
                 "platform": [
                     "WINDOWS",
@@ -1034,6 +1010,7 @@
                     "BETA",
                     "RELEASE"
                 ],
+                "max_version": "110.1.49.83",
                 "min_version": "96.1.34.20",
                 "platform": [
                     "WINDOWS",
@@ -1072,6 +1049,7 @@
                     "BETA",
                     "RELEASE"
                 ],
+                "max_version": "110.1.49.83",
                 "min_version": "96.1.34.4",
                 "platform": [
                     "WINDOWS",
